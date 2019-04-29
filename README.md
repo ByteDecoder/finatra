@@ -7,3 +7,8 @@ $ rerun "ruby app.rb"
 ```
 http://localhost:4567/
 ```
+
+# Creating the DB
+```
+$ ruby db/schema.rb
+```
