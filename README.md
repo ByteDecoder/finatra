@@ -12,3 +12,8 @@ http://localhost:4567/
 ```
 $ ruby db/schema.rb
 ```
+
+# Seed the DB
+```
+$ ruby db/seed.rb
+```
